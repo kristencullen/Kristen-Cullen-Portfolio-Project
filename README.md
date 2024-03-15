@@ -1,2 +1,3 @@
 # Kristen-Cullen-Portfolio-Project
-## For this project, we were instructed to create a professional portfolio website to demonstrate our skills using CSS.
+## Introduction
+### The module 2 challenge focuses on showcasing my skills using CSS by creating a Professional Portfolio. In this challenge, I was able to practice using various CSS features such as padding, flexboxes, and margins.
